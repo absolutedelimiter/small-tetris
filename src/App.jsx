@@ -4,8 +4,8 @@ export default function App() {
   return (
     <div style={styles.page}>
       <header style={styles.header}>
-        <div style={styles.brand}>small-tetris</div>
-        <div style={styles.subtitle}>Canvas • Touch • GitHub Pages ready</div>
+        <div style={styles.brand}>Clotho - small-tetris</div>
+        <div style={styles.subtitle}>Canvas • Touch • GitHub Pages ready by CLotho</div>
       </header>
 
       <main style={styles.main}>
