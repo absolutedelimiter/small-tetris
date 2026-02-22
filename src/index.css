@@ -1,0 +1,20 @@
+:root {
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background: radial-gradient(1200px 700px at 30% 10%, #182235 0%, #0b0f17 45%, #06080c 100%);
+  color: #e9eef7;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji",
+    "Segoe UI Emoji";
+}
+
+a { color: inherit; }
+
+button {
+  font: inherit;
+}
